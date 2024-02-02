@@ -390,7 +390,7 @@ width: 40px;
 }
 
 .portfolio-list-item:hover .portfolio-cover-text {
-    transform: translateY(0);
+    transform: translateY(0%);
 }
 
 .portfolio-cover-wrap{
